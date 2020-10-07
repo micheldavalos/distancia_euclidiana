@@ -12,3 +12,5 @@ def distancia_euclidiana(x_1, y_1, x_2, y_2):
 	y_2 -- destino_y
 
 	"""
+    a = 1
+    b = 2
