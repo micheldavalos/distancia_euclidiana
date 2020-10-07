@@ -1,8 +1,9 @@
 def distancia_euclidiana(x_1, y_1, x_2, y_2):
-    """ Calcula la distancia euclidiana  
-    Devuelve el resultado de la fórmula
+	""" Calcula la distancia euclidiana
 
-	También se le conoce a la fórmula como:
+	Devuelve el resultado de la formula
+
+	También se le conoe a la fórmula como:
 	distancia entre dos puntos
 
 	Parámetros:
@@ -12,5 +13,4 @@ def distancia_euclidiana(x_1, y_1, x_2, y_2):
 	y_2 -- destino_y
 
 	"""
-    a = 1
-    b = 2
+	
